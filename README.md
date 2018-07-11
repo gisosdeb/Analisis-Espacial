@@ -1,3 +1,3 @@
-# SPATIAL-ANALYSIS
+# Análisis Espacial
 
 Block que contendrá los diferente análisis
